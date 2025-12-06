@@ -1,0 +1,13 @@
+step 1)
+-----------
+download ollama  https://ollama.com/download/windows & install it
+
+step 2) check version
+> ollama --version
+
+step 3) pull model
+> ollama pull llama3:8b
+
+step 4) run model
+> ollama run llama3:8b
+
