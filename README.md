@@ -24,4 +24,5 @@ You can swap models instantly:
 ```json
 "model": "llama3:8b"
 
-![chatbot](image.png)
+
+![alt text](image.png)
