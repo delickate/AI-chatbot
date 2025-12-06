@@ -25,4 +25,4 @@ You can swap models instantly:
 "model": "llama3:8b"
 
 
-![Chatbot](screenshot.png)
+![Chatbot](chatbot.png)
