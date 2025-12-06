@@ -2,7 +2,7 @@
 A fully functional **ChatGPT-style AI chatbot** built using **Laravel**, **Blade**, and **Ollama** (running Llama 3 or any local model).  
 The chat interface supports **real-time streaming responses**, message bubbles, auto-scrolling, and a clean UX similar to ChatGPT.
 
----
+![Chatbot](chatbot.png)
 
 ## 🚀 Features
 
@@ -24,5 +24,3 @@ You can swap models instantly:
 ```json
 "model": "llama3:8b"
 
-
-![Chatbot](chatbot.png)
